@@ -9,6 +9,10 @@
       "name": "Diego",
       "surnames": "da Costa Porto",
       "title": "%%HEADLINE%%",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/31/b8f4b203-3d9e-4612-9394-80ae2bcb9682_avatar.jpg",
+        "alt": "avatar.jpg"
+      },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
